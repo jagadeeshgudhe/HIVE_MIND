@@ -166,4 +166,4 @@ A dashboard for the admin where the progress of all the users is tracked & analy
 
 ## Authors
 
-* [Altaf Raza](https://github.com/Altaf-10)
+* Jagadeesh_Gudhe : https://github.com/jagadeeshgudhe
