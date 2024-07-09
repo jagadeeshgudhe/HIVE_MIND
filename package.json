@@ -1,0 +1,11 @@
+{
+  "name": "hive-mind-main",
+  "version": "1.0.0",
+  "description": "Interactive Puzzle Application that can be solved on an online website.The aim of the puzzle is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.).The puzzle is built by hiding clues and treasures on the website. Each clue tells the user where to find the next clue, and the final clue leads to the treasure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
